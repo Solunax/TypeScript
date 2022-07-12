@@ -7,3 +7,5 @@
 ## 바로가기
 - [The TypeScript HandBook](https://github.com/Solunax/TypeScript/blob/main/week_01/review.md)
 - [The Basics](https://github.com/Solunax/TypeScript/blob/main/week_02/review.md)
+- [Everyday Types](https://github.com/Solunax/TypeScript/blob/main/week_03/review.md)
+- [Narrowing](https://github.com/Solunax/TypeScript/blob/main/week_04/review.md)

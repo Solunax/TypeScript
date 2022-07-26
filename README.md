@@ -10,3 +10,4 @@
 - [Everyday Types](https://github.com/Solunax/TypeScript/blob/main/week_03/review.md)
 - [Narrowing](https://github.com/Solunax/TypeScript/blob/main/week_04/review.md)
 - [More on Function](https://github.com/Solunax/TypeScript/blob/main/week_05/review.md)
+- [Object Types](https://github.com/Solunax/TypeScript/blob/main/week_06/review.md)

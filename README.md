@@ -13,3 +13,4 @@
 - [More on Function](https://github.com/Solunax/TypeScript/blob/main/week_05/review.md)
 - [Object Types](https://github.com/Solunax/TypeScript/blob/main/week_06/review.md)
 - [Type Manipulation - Generics](https://github.com/Solunax/TypeScript/blob/main/week_08/review.md)
+- [Type Manipulation - Keyof, Typeof, Indexed Access, Conditional, Mapped, Template Literal](https://github.com/Solunax/TypeScript/blob/main/week_09/review.md)

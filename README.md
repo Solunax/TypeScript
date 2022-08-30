@@ -15,3 +15,4 @@
 - [Type Manipulation - Generics](https://github.com/Solunax/TypeScript/blob/main/week_08/review.md)
 - [Type Manipulation - Keyof, Typeof, Indexed Access, Conditional, Mapped, Template Literal](https://github.com/Solunax/TypeScript/blob/main/week_09/review.md)
 - [Modules](https://github.com/Solunax/TypeScript/blob/main/week_10/review.md)
+- [Classes](https://github.com/Solunax/TypeScript/blob/main/week_11/review.md)
